@@ -1,5 +1,5 @@
 ---
-permalink: /smart-traffic-assessment/
+permalink: /bridge-assessment/
 title: "Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong"
 ---
 
