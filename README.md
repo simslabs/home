@@ -1,6 +1,6 @@
 # SIMS Lab 
 
-The Smart Infrastructure Management Systems (SIMS) lab conducts cutting-edge research on infrastructure management using state-of-the-art technologies. Visit our [page](https://simslabs.github.io/simlabs.github.io/) to view our recent works and projects. 
+The Smart Infrastructure Management Systems (SIMS) lab conducts cutting-edge research on infrastructure management using state-of-the-art technologies. Visit our [page](https://simslabs.github.io/home/) to view our recent works and projects. 
 
 We specialize in the structural health monitoring and management of the following infrastructure: 
 
